@@ -1,0 +1,11 @@
+[
+    {"titleTime":"2019年6月","income":"月收益：1000","content":[
+        {"name":"提现收益","price":"1000.00","time":"06-08 19：00","result":"审核中","color":"#FE2C2A"},
+        {"name":"提现收益","price":"1000.00","time":"06-08 19：00","result":"提现失败","color":"#FE2C2A"},
+        {"name":"提现收益","price":"1000.00","time":"06-08 19：00","result":"提现成功","color":"#3F8DFD"}
+    ]},
+    {"titleTime":"2019年5月","income":"月收益：1000","content":[
+        {"name":"提现收益","price":"1000.00","time":"06-08 19：00","result":"提现成功","color":"#3F8DFD"},
+        {"name":"提现收益","price":"1000.00","time":"06-08 19：00","result":"提现成功","color":"#3F8DFD"}
+    ]}
+]

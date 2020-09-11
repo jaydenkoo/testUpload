@@ -1,0 +1,24 @@
+[
+    [
+        {"img":"/img/personalCenter/矩形@2x.png","name":"已购项目","spare":"查看更多","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/矩形 copy 15@2x.png","name":"我的专辑","spare":"8","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/资源12@3x.png","name":"最近播放","spare":"888","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/矩形 copy 10@2x.png","name":"我的收藏","spare":"30","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"}
+    ],
+
+    [
+        {"img":"/img/personalCenter/分组 copy 10@2x.png","name":"我的收益","spare":"","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/分组 copy 11@2x.png","name":"邀请人","spare":"未绑定","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/分组 copy 12@2x.png","name":"我的粉丝","spare":"","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"}
+    ],
+
+    [
+        {"img":"/img/personalCenter/矩形 copy 17@2x.png","name":"用户反馈","spare":"","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/分组 8@2x.png","name":"联系客服","spare":"","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"},
+        {"img":"/img/personalCenter/矩形 copy 20@2x.png","name":"分享智伴","spare":"","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"}
+    ],
+
+    [
+        {"img":"/img/personalCenter/矩形 copy 18@2x.png","name":"设置","spare":"","arrow":"/img/personalCenter/箭头(1)copy13@3x.png"}
+    ]
+]
